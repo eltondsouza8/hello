@@ -8,7 +8,7 @@ class Robot{
         while(n!=0)
         {
         f=sc.nextInt();
-        b=sc.nextInt();
+        believe
         t=sc.nextInt();
         fd=sc.nextInt();
         bd=sc.nextInt();
